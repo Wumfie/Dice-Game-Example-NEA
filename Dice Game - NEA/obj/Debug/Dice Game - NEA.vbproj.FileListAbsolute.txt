@@ -1,0 +1,87 @@
+C:\Users\thoma\source\repos\Dice Game - NEA\Dice Game - NEA\bin\Debug\Dice Game - NEA.exe.config
+C:\Users\thoma\source\repos\Dice Game - NEA\Dice Game - NEA\bin\Debug\Dice Game - NEA.exe
+C:\Users\thoma\source\repos\Dice Game - NEA\Dice Game - NEA\bin\Debug\Dice Game - NEA.pdb
+C:\Users\thoma\source\repos\Dice Game - NEA\Dice Game - NEA\bin\Debug\Dice Game - NEA.xml
+C:\Users\thoma\source\repos\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice Game - NEA.vbprojAssemblyReference.cache
+C:\Users\thoma\source\repos\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice_Game___NEA.Resources.resources
+C:\Users\thoma\source\repos\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice Game - NEA.vbproj.GenerateResource.cache
+C:\Users\thoma\source\repos\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice Game - NEA.vbproj.CoreCompileInputs.cache
+C:\Users\thoma\source\repos\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice Game - NEA.exe
+C:\Users\thoma\source\repos\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice Game - NEA.xml
+C:\Users\thoma\source\repos\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice Game - NEA.pdb
+C:\Users\thoma\source\repos\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice_Game___NEA.Form1.resources
+C:\Users\thoma\source\repos\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice_Game___NEA.Login.resources
+C:\Users\thoma\Desktop\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice Game - NEA.vbprojAssemblyReference.cache
+C:\Users\thoma\Desktop\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice_Game___NEA.Form1.resources
+C:\Users\thoma\Desktop\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice_Game___NEA.Login.resources
+C:\Users\thoma\Desktop\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice_Game___NEA.Resources.resources
+C:\Users\thoma\Desktop\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice Game - NEA.vbproj.GenerateResource.cache
+C:\Users\thoma\Desktop\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice Game - NEA.vbproj.CoreCompileInputs.cache
+C:\Users\thoma\Desktop\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice Game - NEA.exe
+C:\Users\thoma\Desktop\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice Game - NEA.xml
+C:\Users\thoma\Desktop\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice Game - NEA.pdb
+C:\Users\thoma\Desktop\Dice Game - NEA\Dice Game - NEA\bin\Debug\Dice Game - NEA.exe.config
+C:\Users\thoma\Desktop\Dice Game - NEA\Dice Game - NEA\bin\Debug\Dice Game - NEA.exe
+C:\Users\thoma\Desktop\Dice Game - NEA\Dice Game - NEA\bin\Debug\Dice Game - NEA.pdb
+C:\Users\thoma\Desktop\Dice Game - NEA\Dice Game - NEA\bin\Debug\Dice Game - NEA.xml
+C:\Users\thoma\Desktop\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice_Game___NEA.Game_Window.resources
+H:\Documents\00elDont\Year 11\Computing NEA\Dice Game - NEA\Dice Game - NEA\bin\Debug\Dice Game - NEA.exe.config
+H:\Documents\00elDont\Year 11\Computing NEA\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice Game - NEA.exe
+H:\Documents\00elDont\Year 11\Computing NEA\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice Game - NEA.xml
+H:\Documents\00elDont\Year 11\Computing NEA\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice Game - NEA.pdb
+H:\Documents\00elDont\Year 11\Computing NEA\Dice Game - NEA\Dice Game - NEA\bin\Debug\Dice Game - NEA.exe
+H:\Documents\00elDont\Year 11\Computing NEA\Dice Game - NEA\Dice Game - NEA\bin\Debug\Dice Game - NEA.pdb
+H:\Documents\00elDont\Year 11\Computing NEA\Dice Game - NEA\Dice Game - NEA\bin\Debug\Dice Game - NEA.xml
+H:\Documents\00elDont\Year 11\Computing NEA\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice Game - NEA.vbprojResolveAssemblyReference.cache
+H:\Documents\00elDont\Year 11\Computing NEA\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice_Game___NEA.Form1.resources
+H:\Documents\00elDont\Year 11\Computing NEA\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice_Game___NEA.Game_Window.resources
+H:\Documents\00elDont\Year 11\Computing NEA\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice_Game___NEA.Login.resources
+H:\Documents\00elDont\Year 11\Computing NEA\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice_Game___NEA.Resources.resources
+H:\Documents\00elDont\Year 11\Computing NEA\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice Game - NEA.vbproj.GenerateResource.Cache
+H:\Documents\00elDont\Year 11\Computing NEA\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice_Game___NEA.Leaderboard.resources
+C:\Users\thoma\Desktop\Dice Game NEA 17-10-20\Dice Game - NEA\Dice Game - NEA\bin\Debug\Dice Game - NEA.exe.config
+C:\Users\thoma\Desktop\Dice Game NEA 17-10-20\Dice Game - NEA\Dice Game - NEA\bin\Debug\Dice Game - NEA.exe
+C:\Users\thoma\Desktop\Dice Game NEA 17-10-20\Dice Game - NEA\Dice Game - NEA\bin\Debug\Dice Game - NEA.pdb
+C:\Users\thoma\Desktop\Dice Game NEA 17-10-20\Dice Game - NEA\Dice Game - NEA\bin\Debug\Dice Game - NEA.xml
+C:\Users\thoma\Desktop\Dice Game NEA 17-10-20\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice Game - NEA.vbprojAssemblyReference.cache
+C:\Users\thoma\Desktop\Dice Game NEA 17-10-20\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice_Game___NEA.Form1.resources
+C:\Users\thoma\Desktop\Dice Game NEA 17-10-20\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice_Game___NEA.Game_Window.resources
+C:\Users\thoma\Desktop\Dice Game NEA 17-10-20\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice_Game___NEA.Leaderboard.resources
+C:\Users\thoma\Desktop\Dice Game NEA 17-10-20\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice_Game___NEA.Login.resources
+C:\Users\thoma\Desktop\Dice Game NEA 17-10-20\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice_Game___NEA.Resources.resources
+C:\Users\thoma\Desktop\Dice Game NEA 17-10-20\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice Game - NEA.vbproj.GenerateResource.cache
+C:\Users\thoma\Desktop\Dice Game NEA 17-10-20\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice Game - NEA.vbproj.CoreCompileInputs.cache
+C:\Users\thoma\Desktop\Dice Game NEA 17-10-20\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice Game - NEA.exe
+C:\Users\thoma\Desktop\Dice Game NEA 17-10-20\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice Game - NEA.xml
+C:\Users\thoma\Desktop\Dice Game NEA 17-10-20\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice Game - NEA.pdb
+H:\Documents\00elDont\Year 11\Dice Game NEA 17-10-20\Dice Game - NEA\Dice Game - NEA\bin\Debug\Dice Game - NEA.exe.config
+H:\Documents\00elDont\Year 11\Dice Game NEA 17-10-20\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice Game - NEA.exe
+H:\Documents\00elDont\Year 11\Dice Game NEA 17-10-20\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice Game - NEA.xml
+H:\Documents\00elDont\Year 11\Dice Game NEA 17-10-20\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice Game - NEA.pdb
+H:\Documents\00elDont\Year 11\Dice Game NEA 17-10-20\Dice Game - NEA\Dice Game - NEA\bin\Debug\Dice Game - NEA.exe
+H:\Documents\00elDont\Year 11\Dice Game NEA 17-10-20\Dice Game - NEA\Dice Game - NEA\bin\Debug\Dice Game - NEA.pdb
+H:\Documents\00elDont\Year 11\Dice Game NEA 17-10-20\Dice Game - NEA\Dice Game - NEA\bin\Debug\Dice Game - NEA.xml
+H:\Documents\00elDont\Year 11\Dice Game NEA 17-10-20\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice Game - NEA.vbprojResolveAssemblyReference.cache
+H:\Documents\00elDont\Year 11\Dice Game NEA 17-10-20\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice_Game___NEA.Form1.resources
+H:\Documents\00elDont\Year 11\Dice Game NEA 17-10-20\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice_Game___NEA.Game_Window.resources
+H:\Documents\00elDont\Year 11\Dice Game NEA 17-10-20\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice_Game___NEA.Leaderboard.resources
+H:\Documents\00elDont\Year 11\Dice Game NEA 17-10-20\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice_Game___NEA.Login.resources
+H:\Documents\00elDont\Year 11\Dice Game NEA 17-10-20\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice_Game___NEA.Resources.resources
+H:\Documents\00elDont\Year 11\Dice Game NEA 17-10-20\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice Game - NEA.vbproj.GenerateResource.Cache
+H:\Documents\00elDont\Year 11\Dice Game NEA 17-10-20\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice_Game___NEA.Settings.resources
+C:\Users\thoma\Desktop\Dice Game NEA 19-10-20\Dice Game - NEA\Dice Game - NEA\bin\Debug\Dice Game - NEA.exe.config
+C:\Users\thoma\Desktop\Dice Game NEA 19-10-20\Dice Game - NEA\Dice Game - NEA\bin\Debug\Dice Game - NEA.exe
+C:\Users\thoma\Desktop\Dice Game NEA 19-10-20\Dice Game - NEA\Dice Game - NEA\bin\Debug\Dice Game - NEA.pdb
+C:\Users\thoma\Desktop\Dice Game NEA 19-10-20\Dice Game - NEA\Dice Game - NEA\bin\Debug\Dice Game - NEA.xml
+C:\Users\thoma\Desktop\Dice Game NEA 19-10-20\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice Game - NEA.vbprojAssemblyReference.cache
+C:\Users\thoma\Desktop\Dice Game NEA 19-10-20\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice_Game___NEA.Form1.resources
+C:\Users\thoma\Desktop\Dice Game NEA 19-10-20\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice_Game___NEA.Game_Window.resources
+C:\Users\thoma\Desktop\Dice Game NEA 19-10-20\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice_Game___NEA.Leaderboard.resources
+C:\Users\thoma\Desktop\Dice Game NEA 19-10-20\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice_Game___NEA.Login.resources
+C:\Users\thoma\Desktop\Dice Game NEA 19-10-20\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice_Game___NEA.Resources.resources
+C:\Users\thoma\Desktop\Dice Game NEA 19-10-20\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice_Game___NEA.Settings.resources
+C:\Users\thoma\Desktop\Dice Game NEA 19-10-20\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice Game - NEA.vbproj.GenerateResource.cache
+C:\Users\thoma\Desktop\Dice Game NEA 19-10-20\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice Game - NEA.vbproj.CoreCompileInputs.cache
+C:\Users\thoma\Desktop\Dice Game NEA 19-10-20\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice Game - NEA.exe
+C:\Users\thoma\Desktop\Dice Game NEA 19-10-20\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice Game - NEA.xml
+C:\Users\thoma\Desktop\Dice Game NEA 19-10-20\Dice Game - NEA\Dice Game - NEA\obj\Debug\Dice Game - NEA.pdb

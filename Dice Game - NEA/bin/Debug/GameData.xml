@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Users>
+  <Accounts>
+    <Account>
+      <Username>TomEldon</Username>
+      <Email>tom@eldon.com</Email>
+      <Password>5B1JiIgEEy7mRcsF5SSOaCehuAX/afx27r3w7wmaIXA=</Password>
+      <Salt>f4wpIejBB5dJlCS2jgsZ9msHcsjFipvIaE16XEd9Yac=</Salt>
+    </Account>
+    <Account>
+      <Username>OwenBof</Username>
+      <Email>owen@boffey.com</Email>
+      <Password>eB5XKNzjPxL+RrP57pJKrq6CBc6y97WSUYJAfUzDbKU=</Password>
+      <Salt>3tjSLdsiuxVF4ZSL6cb5IaiaOr0RzjuNDmSlQuE698w=</Salt>
+    </Account>
+    <Account>
+      <Username>Joe</Username>
+      <Email>joe@joecollyer.com</Email>
+      <Password>/Og7TTIPAK/wJrPZ825LCW6KBySgaaC7qzOhDVYNA8g=</Password>
+      <Salt>GbsPFFvkf57jWEYI+ab4xmY47G2E93CIr3cXoP24rrY=</Salt>
+    </Account>
+  </Accounts>
+  <Scores>
+    <Score>
+      <Username>OwenBof</Username>
+      <Highscore>50</Highscore>
+    </Score>
+    <Score>
+      <Username>TomEldon</Username>
+      <Highscore>55</Highscore>
+    </Score>
+  </Scores>
+</Users>
